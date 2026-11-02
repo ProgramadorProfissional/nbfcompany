@@ -1,0 +1,23 @@
+NBF COMPANY — PAINEL CORPORATIVO DO CLIENTE
+
+COMO COMEÇAR
+1. Extraia o ZIP.
+2. Abra index.html no Chrome, Edge ou Firefox.
+3. No primeiro acesso, escolha “Cadastrar empresa”.
+4. Preencha razão social, nome fantasia, CNPJ (opcional), segmento, responsável, e-mail e senha.
+5. Depois do cadastro, entre usando o e-mail e a senha criados.
+
+IDENTIDADE VISUAL E MENU
+- O nome fantasia/razão social da empresa cliente aparece no topo do menu lateral.
+- A palavra COMPANY aparece somente como identificação da plataforma para empresas.
+- Não há logotipo da NEXT BUSINESS FUTURE no painel do cliente.
+- Paleta azul, azul-marinho e amarelo.
+
+MÓDULOS
+Dashboard, Lançamentos, Despesas, Reserva de emergência, Fluxo de caixa, Contabilidade e registro de documentos/solicitações fiscais, Simulação de riscos e ganhos, Cadastro da empresa, Configurações e exportação de backup.
+
+LIMITAÇÕES IMPORTANTES
+Este é um protótipo funcional local para validar telas e fluxos. Os dados ficam no armazenamento do navegador/dispositivo atual. Não há servidor, sincronização entre dispositivos, isolamento seguro de clientes, recuperação de senha, autenticação de produção ou trilha de auditoria inviolável. Não use dados sensíveis nem publique esta versão como SaaS real.
+Para produção, implementar backend, banco de dados multi-tenant com isolamento por empresa, autenticação segura (senhas com hash), autorização, HTTPS, logs no servidor, backups e recuperação de conta.
+O módulo fiscal apenas registra documentos/solicitações; não emite NF-e/NFS-e válida. Emissão oficial requer integração autorizada com SEFAZ/prefeitura/provedor fiscal e credenciais/certificados aplicáveis.
+A distribuição banco/reserva/caixa livre é cálculo gerencial e não transfere dinheiro. Simulações são indicativas, não garantem resultados.
